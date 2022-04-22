@@ -1,2 +1,3 @@
-# git-1
-Sample GITHUB Rep
+Hi,
+
+This is a sample GIT file.
